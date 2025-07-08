@@ -1,0 +1,17 @@
+name: compass-demo-repo
+slug: compass-demo-repo
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: none
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/cze-dk/compass-demo-repo'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
