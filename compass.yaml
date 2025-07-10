@@ -1,6 +1,6 @@
 id: 'ari:cloud:compass:f75bd1c5-809d-4b6c-bc49-c7c7b2772669:component/8059056e-3ccd-46ff-a5ce-136c355f70b2/dcb138da-abfd-4792-8dda-1ce87db6c98f'
 name: compass-demo-repo
-slug: compass-demo-repo
+slug: myproject
 description: null
 configVersion: 1
 typeId: SERVICE
